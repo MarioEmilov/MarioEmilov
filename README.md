@@ -1,5 +1,5 @@
 ## 👋 Introduction & Bio
-💻 I am Mario and I am passionate and hardworking who wants to be a <strong>Software Engineer</strong> and loves to write code and solve problems. I have interest in <strong>Java Programing</strong> and <strong>Software Engineering</strong> fields and am seeking new and exciting opportunities related to them.
+💻 I am Mario, and I am passionate and hardworking who wants to be a <strong>Software Engineer</strong> and loves to write code and solve problems. I have interest in <strong>Java Programming</strong> and <strong>Software Engineering</strong> fields, and I am seeking new and exciting opportunities related to them.
 
 🧠 <strong>Java</strong> is my main programming language, but I consider myself a fast learner and I don't have any problems working with new technologies and getting the work done.
 
